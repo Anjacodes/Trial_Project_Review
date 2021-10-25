@@ -107,7 +107,7 @@ body {
   width: 100%;
   padding: 1.5%;
   background-color: white;
-  border-color: #dddddd;
+  border-color: #ddd;
   color: #595260;
 }
 
@@ -175,7 +175,7 @@ body {
 }
 
 .divisor {
-  color: #dddddd;
+  color: #ddd;
   width: 100%;
 }
 
